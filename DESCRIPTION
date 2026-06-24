@@ -1,0 +1,35 @@
+Package: npbivp
+Title: Bayesian Nonparametric Integrative Variable Selection for Multi-Omics Data
+Version: 0.0.0.9000
+Authors@R:
+    c(
+      person(
+        given = "Bhargob",
+        family = "Kakoty",
+        email = "bhargobkakoty30@gmail.com",
+        role = c("aut", "cre")
+      ),
+      person(
+        given = "Thierry",
+        family = "Chekouo",
+        role = "aut"
+      )
+    )
+Description: Implements Bayesian nonparametric integrative variable selection
+    methods for multi-omics data with continuous and right-censored survival
+    outcomes. The package includes NPBIVP and an extension, NPBIVPR, for
+    incorporating regulatory network information between two omics platforms.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports:
+    Rcpp,
+    stats
+LinkingTo:
+    Rcpp,
+    RcppArmadillo,
+    RcppDist
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
