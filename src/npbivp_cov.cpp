@@ -814,6 +814,7 @@ Rcpp::List npbivp_cov_cpp(Rcpp::List data_types, arma::vec y, arma::mat W, arma:
 
         y(cens_ind(i))=trun_sample_y;
       }
+      neg_log_lik_old = neg_log_lik(cov, y);
 
     }
 
