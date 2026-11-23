@@ -11,6 +11,8 @@
 #' \item \code{\link{predict.npbivp}}
 #' }
 #'
+#' @references Bhargob Kakoty and Thierry Chekouo. Integrative Nonparametric Bayesian Variable Selection and Prediction, with Application to Multi-Omics Cancer Genomics. Working paper.
+#'
 #' @keywords internal
 #' @useDynLib npbivp, .registration = TRUE
 #' @importFrom stats predict rgamma rnorm

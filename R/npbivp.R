@@ -109,6 +109,8 @@
 #' fit$acceptance
 #' }
 #'
+#' @references Bhargob Kakoty and Thierry Chekouo. Integrative Nonparametric Bayesian Variable Selection and Prediction, with Application to Multi-Omics Cancer Genomics. Working paper.
+#'
 #' @export
 npbivp <- function(data, y,
                    outcome_type = c("continuous", "survival"),

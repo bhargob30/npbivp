@@ -17,6 +17,9 @@ Main functions:
 \item \code{\link{predict.npbivp}}
 }
 }
+\references{
+Bhargob Kakoty and Thierry Chekouo. Integrative Nonparametric Bayesian Variable Selection and Prediction, with Application to Multi-Omics Cancer Genomics. Working paper.
+}
 \author{
 \strong{Maintainer}: Bhargob Kakoty \email{bhargobkakoty30@gmail.com}
 

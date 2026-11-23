@@ -257,8 +257,7 @@ If you use this package, please cite
 
 Bhargob Kakoty and Thierry Chekouo.
 
-**Bayesian Multi-Kernel Gaussian Process for Nonlinear Multi-Omics Data
-Integration.**
+**Integrative Nonparametric Bayesian Variable Selection and Prediction, with Application to Multi-Omics Cancer Genomics.**
 
 Working paper.
 

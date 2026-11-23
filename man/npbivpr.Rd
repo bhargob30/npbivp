@@ -126,6 +126,9 @@ The model was motivated by gene-miRNA regulatory network learning, where gene
 expression features may be regulated by miRNAs, but the function can be used
 for any two-platform setting with a directed candidate regulatory structure.
 }
+\references{
+Bhargob Kakoty and Thierry Chekouo. Integrative Nonparametric Bayesian Variable Selection and Prediction, with Application to Multi-Omics Cancer Genomics. Working paper.
+}
 \examples{
 \dontrun{
 set.seed(1)

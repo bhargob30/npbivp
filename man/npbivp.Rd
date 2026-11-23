@@ -130,6 +130,9 @@ If \code{covar} is supplied, the covariate matrix is appended internally as
 the last fitted platform. Therefore, if the user supplies \eqn{m} omics
 platforms, the fitted model has \eqn{m + 1} platforms.
 }
+\references{
+Bhargob Kakoty and Thierry Chekouo. Integrative Nonparametric Bayesian Variable Selection and Prediction, with Application to Multi-Omics Cancer Genomics. Working paper.
+}
 \examples{
 \dontrun{
 set.seed(1)
